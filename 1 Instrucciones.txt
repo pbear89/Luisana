@@ -1,0 +1,8 @@
+Solo el administrador podrá eliminar registros en el sistema.
+
+El usuario ADMINISTRADOR creado por defecto es 
+
+USER = ADMINuno
+PASS = ADMIN1uno
+
+Para crear algún otro usuario ADMINISTRADOR, debe cambiarse el tipo del mismo en la base de datos.
